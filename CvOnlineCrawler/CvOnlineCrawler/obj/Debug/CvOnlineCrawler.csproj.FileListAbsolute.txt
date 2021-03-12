@@ -1,0 +1,10 @@
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\bin\Debug\CvOnlineCrawler.exe.config
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\bin\Debug\CvOnlineCrawler.exe
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\bin\Debug\CvOnlineCrawler.pdb
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\bin\Debug\RestSharp.dll
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\bin\Debug\RestSharp.xml
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\obj\Debug\CvOnlineCrawler.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\obj\Debug\CvOnlineCrawler.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\obj\Debug\CvOnlineCrawler.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\obj\Debug\CvOnlineCrawler.exe
+C:\Users\mariu\Documents\GitHub\CvOnlineCrawler\CvOnlineCrawler\CvOnlineCrawler\obj\Debug\CvOnlineCrawler.pdb
